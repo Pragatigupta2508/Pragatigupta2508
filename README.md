@@ -1,4 +1,4 @@
-Hi, I'm Pragati 👋
+# Hi, I'm Pragati 👋
 CSE AI student | Java Developer | ML Enthusiast
 
 🚀 Projects:
