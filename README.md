@@ -1,5 +1,15 @@
-## Hi there 👋
+Hi, I'm Pragati 👋
+CSE AI student | Java Developer | ML Enthusiast
 
+🚀 Projects:
+- Explore With Pragati
+- Jhansi Shield App
+- Pokeshot Game (Pygame)
+
+🛠 Tech Stack:
+Java | Python | ML | AWS
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/pragati-gupta-632b45335/)
 <!--
 **Pragatigupta2508/Pragatigupta2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
