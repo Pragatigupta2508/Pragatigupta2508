@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+in+Progress;Java+%7C+AI+%7C+Builder;Creating+Impactful+Tech+✨&center=true&width=500&height=50">
+</p>
+
 <h1 align="center">Hi 👋, I'm Pragati Gupta</h1>
 <h3 align="center">Aspiring AI Engineer from India</h3>
 
@@ -5,11 +9,11 @@
 
 ### 🌱 About Me
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning & DSA**
-- 🔭 I’m currently working on **AI-based projects & real-world applications**
-- 👯 I’m looking to collaborate on **AI/ML, Open Source & Hackathons**
-- 🤝 I’m looking for help with **Advanced AI & Research**
-- 💬 Ask me about **Java, AI & Tech**
+- 🌱 Learning **AI, Machine Learning & DSA**
+- 🔭 Building **AI-based projects & real-world solutions**
+- 👯 Open to collaborate on **AI/ML, Open Source & Hackathons**
+- 🤝 Exploring **Advanced AI & Research**
+- 💬 Ask me about **Java, AI & Development**
 - ⚡ Fun fact: **I paint dark aesthetic art 🎨**
 
 ---
@@ -33,7 +37,7 @@
 ### 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,nodejs,mongodb,mysql,aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,nodejs,mongodb,mysql,aws,docker,git" />
 </p>
 
 ---
