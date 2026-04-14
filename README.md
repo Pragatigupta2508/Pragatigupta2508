@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pragati</h1>
-<h3 align="center">Aspiring AI Engineer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Pragati Gupta</h1>
+<h3 align="center">Aspiring AI Engineer from India</h3>
 
 ---
 
@@ -38,11 +38,11 @@
 
 ---
 ### 📊 GitHub Stats:
-<p align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=Pragatigupta2508&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Pragatigupta2508&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pragatigupta2508&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+
 
 
 <p align="center">
