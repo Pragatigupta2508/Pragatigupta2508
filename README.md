@@ -17,13 +17,13 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/Pragati Gupta" target="blank">
+<a href="www.linkedin.com/in/pragati-gupta-632b45335" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="mailto:pragatigupta02508@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-<a href="https://instagram.com/pra_g_ati">
+<a href="https://instagram.com/_pra_g_ati">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
