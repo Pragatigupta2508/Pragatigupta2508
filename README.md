@@ -33,17 +33,15 @@
 ### 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,react,nodejs,mongodb,mysql,aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,nodejs,mongodb,mysql,aws,docker,git,github" />
 </p>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pragatigupta2508&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Pragatigupta2508&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pragatigupta2508&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pragatigupta2508&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragatigupta2508&theme=tokyonight" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragatigupta2508&layout=compact&theme=tokyonight" />
