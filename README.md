@@ -1,26 +1,56 @@
-# Hi, I'm Pragati 👋
-CSE AI student | Java Developer | ML Enthusiast
+<h1 align="center">Hi 👋, I'm Pragati</h1>
+<h3 align="center">Aspiring AI Engineer from India 🇮🇳</h3>
 
-🚀 Projects:
-- Explore With Pragati
-- Jhansi Shield App
-- Pokeshot Game (Pygame)
+---
 
-🛠 Tech Stack:
-Java | Python | ML | AWS
+### 🌱 About Me
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/pragati-gupta-632b45335/)
-<!--
-**Pragatigupta2508/Pragatigupta2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning & DSA**
+- 🔭 I’m currently working on **AI-based projects & real-world applications**
+- 👯 I’m looking to collaborate on **AI/ML, Open Source & Hackathons**
+- 🤝 I’m looking for help with **Advanced AI & Research**
+- 💬 Ask me about **Java, AI & Tech**
+- ⚡ Fun fact: **I paint dark aesthetic art 🎨**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/Pragati Gupta" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:pragatigupta02508@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+<a href="https://instagram.com/pra_g_ati">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,react,nodejs,mongodb,mysql,aws,docker,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pragatigupta2508&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragatigupta2508&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragatigupta2508&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
