@@ -17,8 +17,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="www.linkedin.com/in/pragati-gupta-632b45335
-  " target="blank">
+<a href="www.linkedin.com/in/pragati-gupta-632b45335" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="mailto:pragatigupta02508@gmail.com">
